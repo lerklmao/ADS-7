@@ -14,7 +14,7 @@ class Train {
  public:
   Train();
   void addCar(bool light);
-  int getLength();     
-  int getOpCount();    
+  int getLength();
+  int getOpCount();
 };
 #endif  // INCLUDE_TRAIN_H_
